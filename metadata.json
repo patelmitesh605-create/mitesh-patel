@@ -1,0 +1,6 @@
+{
+  "name": "ScholarID - Student ID Card Studio",
+  "description": "Professional student ID card generator, designer, and credential manager with dual-side preview, instant printing, QR verification, and custom institution styling.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
